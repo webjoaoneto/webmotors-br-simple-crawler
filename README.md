@@ -12,7 +12,24 @@ De tal forma, criei um simples Web-crawler que captura as marcas / modelos e var
 Dados de veículos disponíveis em formato JSON
 ---------
 
+=Update=
+Além dos dados de marcas, modelos e versões, também foi incluido no crawler
+os dados de Anos, que estão inclusos no JSON apenas.
+
 Acesse o arquivo *all.json* com os dados do crawler.
+Formato:
+
+> {
+>  marca
+>  modelos: {
+>       modelos
+>       versoes: {
+>           versoes
+>           anos: [ 1990...2014 ]
+>       }
+>  }
+>}
+
 
 Link direto: https://raw.githubusercontent.com/joao-gsneto/webmotors-br-simple-crawler/master/all.json
 
