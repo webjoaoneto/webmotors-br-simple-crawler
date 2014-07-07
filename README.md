@@ -9,6 +9,12 @@ De tal forma, criei um simples Web-crawler que captura as marcas / modelos e var
 ----------
 
 
+Dados de veículos disponíveis em formato JSON
+---------
+Acesse o arquivo all.json e veja o DUMP de dados com a data: *30/jun/2014*
+
+
+
 Como usar
 ---------
 
