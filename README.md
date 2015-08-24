@@ -6,6 +6,7 @@ Olá! Muitos de nos precisamos de um banco de dados de marcas e modelos e o **We
 
 De tal forma, criei um simples Web-crawler que captura as marcas / modelos e variações de forma simples e rápida.
 
+**Update: Esse crawler ainda funciona? Se não, abra um ISSUE e iremos corrigir!
 ----------
 
 
